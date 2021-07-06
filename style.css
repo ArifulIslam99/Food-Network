@@ -2,22 +2,14 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 h1{
-    font-size: 50px;
-    font-weight: 700;
-    
+    font-size: 50px;  
 }
-
-h2{
-    font-weight: 600;
-}
-
 
 
 p{
    
     font-size: 20px;
-    font-weight: 400;
-
+   
 }
 .section{
     display: flex;
