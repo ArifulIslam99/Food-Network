@@ -1,0 +1,132 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+
+h2{
+    font-weight: 600;
+}
+
+
+
+p{
+   
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.container{
+    width: 50%;
+    margin-left: 5%;
+
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(orange , red);
+    color: white;
+    font-weight: 800;
+}
+
+.container img{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.about{
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+}
+
+.recipies{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.box{
+    border: 10px solid white;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 15px;
+     
+
+} 
+
+.box img{
+    width: 100%;
+    text-align: center;
+} 
+
+
+ .likes{
+
+width: 50%;
+margin-left: 5%;
+margin-right: 5%;
+
+text-align: center;
+
+ }
+
+
+.box2{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+     
+  box-shadow: 10px 10px 10px 10px gray;
+  border-radius: 10px;
+} 
+
+
+.orange{
+    color: orangered;
+} 
+
+
+ 
+
+.explore{
+    text-align: center;
+    margin-bottom: 150px;
+    
+    color: white;
+    border: 2px solid rgb(56, 18, 0);
+    background-color: rgb(56, 18, 0) ;
+    padding-bottom: 50px;
+} 
+
+.quotes{
+   
+    text-align: center;
+    margin-bottom: 150px;
+    
+} 
+
+#writer{
+    margin-left: 50%;
+}
+
+.footer{
+    text-align: center;
+}
+.end{ 
+    color: gray;
+    border: 5px solid black;
+    background-color: black;
+    padding-bottom: 50px;
+}
+
