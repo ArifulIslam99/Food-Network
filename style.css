@@ -6,11 +6,11 @@ body{
 
 #head{
     text-align: center;
-    text-decoration: none;
-    padding: 40px;
+    padding: 30px;
     border: 3px solid none;
     background-image: linear-gradient(orange, red);
     margin-bottom: 40px;
+    
     
     
  }
