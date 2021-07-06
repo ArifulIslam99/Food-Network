@@ -19,6 +19,10 @@ p{
     width: 50%;
     margin-left: 5%;
 
+} 
+
+.one{
+    margin-top: 3%;
 }
 .button{
     text-decoration: none;
@@ -37,6 +41,7 @@ p{
 .about{
     background-image: url(image/7.png);
     background-repeat: no-repeat;
+    padding-bottom: 5%;
 }
 
 .recipies{
